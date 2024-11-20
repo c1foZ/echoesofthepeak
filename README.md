@@ -10,7 +10,7 @@ To run this project, you will also need to download the **Content** folder from 
 
 [Download Content folder](https://drive.google.com/drive/folders/1rgSIq6MfX6UVX1FK37lotwTUzYE0EVBp?usp=sharing)
 
-### Game
+## Game
 
 You can download the game from the link below:
 
