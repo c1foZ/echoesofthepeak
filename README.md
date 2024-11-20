@@ -18,7 +18,7 @@ You can download the game from the link below:
 
 ## Requirements
 
-- **Engine**: Unreal Engine 5
+- **Engine**: Unreal Engine 5 (required only for project)
 - **Platform**: This game is designed specifically for macOS.
 
 ## Screenshot
