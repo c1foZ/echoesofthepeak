@@ -11,3 +11,7 @@ https://drive.google.com/drive/folders/1t0e8LgClqSjdMXQgwIH-vZLGAw7aNHX8?usp=dri
 ## Game folder
 
 https://drive.google.com/drive/u/1/folders/1i3BlBICE2HUoqg01nbvN8tUNsKqq4740
+
+## Screenshot
+
+![Game Screenshot](images/screen.png)
