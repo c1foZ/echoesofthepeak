@@ -2,16 +2,27 @@
 
 Lost in the heart of majestic mountains, you wander through breathtaking landscapes. A peaceful lake and a towering hill beckon you to uncover their mysteries. What lies hidden within the hill? Explore, reflect, and uncover the secret in this captivating walking simulator.
 
-## Project setup
+## Project Setup
 
-Folder with assets:
+### Content Folder (Required)
 
-https://drive.google.com/drive/folders/1t0e8LgClqSjdMXQgwIH-vZLGAw7aNHX8?usp=drive_link
+To run this project, you will also need to download the **Content** folder from the link below:
+[Download Content folder](https://drive.google.com/drive/folders/1rgSIq6MfX6UVX1FK37lotwTUzYE0EVBp?usp=sharing)
 
-## Game folder
+### Game
 
-https://drive.google.com/drive/u/1/folders/1i3BlBICE2HUoqg01nbvN8tUNsKqq4740
+You can download the game from the link below:
+[Download game folder](https://drive.google.com/drive/folders/1rgSIq6MfX6UVX1FK37lotwTUzYE0EVBp?usp=sharing)
+
+## Requirements
+
+- **Engine**: Unreal Engine 5
+- **Platform**: This game is designed specifically for macOS.
 
 ## Screenshot
 
 ![Game Screenshot](images/screen.png)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
