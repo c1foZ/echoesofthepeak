@@ -14,7 +14,7 @@ To run this project, you will also need to download the **Content** folder from 
 
 You can download the game from the link below:
 
-[Download game](https://drive.google.com/drive/folders/1rgSIq6MfX6UVX1FK37lotwTUzYE0EVBp?usp=sharing)
+[Download game](https://drive.google.com/drive/u/1/folders/1i3BlBICE2HUoqg01nbvN8tUNsKqq4740)
 
 ## Requirements
 
