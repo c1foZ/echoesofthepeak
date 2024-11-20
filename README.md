@@ -7,11 +7,13 @@ Lost in the heart of majestic mountains, you wander through breathtaking landsca
 ### Content Folder (Required)
 
 To run this project, you will also need to download the **Content** folder from the link below:
+
 [Download Content folder](https://drive.google.com/drive/folders/1rgSIq6MfX6UVX1FK37lotwTUzYE0EVBp?usp=sharing)
 
 ### Game
 
 You can download the game from the link below:
+
 [Download game](https://drive.google.com/drive/folders/1rgSIq6MfX6UVX1FK37lotwTUzYE0EVBp?usp=sharing)
 
 ## Requirements
