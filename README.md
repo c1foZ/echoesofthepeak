@@ -21,9 +21,11 @@ You can download the game from the link below:
 - **Engine**: Unreal Engine 5 (required for project only)
 - **Platform**: This game is designed specifically for macOS.
 
-## Trailer
+## Screenshot
 
-[![Watch the video](images/screen.png)](https://youtu.be/gG1ZHeTSA94)
+[Watch trailer on Youtube](https://youtu.be/gG1ZHeTSA94)
+
+![Game Screenshot](images/screen.png)
 
 ## License
 
